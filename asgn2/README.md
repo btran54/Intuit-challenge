@@ -1,8 +1,10 @@
 #### Setup Instructions:
 1. Clone into local machine
-2. Run with ```python3 analyze_csv.py```
+2. Access the directory with `cd Intuit-challenge/asgn2`
+2. Run with `python3 analyze_csv.py`
 
 #### Sample Output:
+```
 Successfully loaded 9,355 rows
 
 
@@ -79,3 +81,4 @@ Unique job titles: 125
 Unique company locations: 70
 
 ==================================================
+```

@@ -1,9 +1,10 @@
 #### Setup Instructions:
 1. Clone into local machine
-2. Access the directory with ```cd Intuit/asgn1```
-2. Run with ```python3 -m unittest test -v```
+2. Access the directory with `cd Intuit-challenge/asgn1`
+2. Run with `python3 -m unittest test -v`
 
 #### Sample Output:
+```
 test_print_status_with_details (test.TestPrintStatus.test_print_status_with_details)
 Test print_status formats correctly with details. ... [Test] Action: Details
 ok
@@ -49,3 +50,4 @@ Starting Producer-Consumer Transfer
 ok
 test_large_transfer (test.TestProducerConsumer.test_large_transfer)
 Test transfer with many items. ... Initialized: 20 items, queue capacity: 10
+```
